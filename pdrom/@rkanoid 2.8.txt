@@ -1,0 +1,59 @@
+@rkanoid Beta 2.8
+
+Historial de Versiones:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+Version Beta 2.8 - 	> 2 niveles extras y algunos detalles que han mejorado mucho el juego:
+			> Primero, la pantalla de inicio, donde hay 3 opciones a escoger:
+										1) 1 Player <-- Habilitado
+										2) 2 Player <-- Desabilitado
+										3) Options	<-- Desabilitado
+			> Ahora el MESÍAS (linea verde que da proteccion a la bola) solo puede salvarte 1 sola vez. Despues 			desaparece.
+			> He cambiado los fondos, ademas, cada vez que rompes un Bloque deja un fondo diferente, dandole un efecto 			de un orificio.
+			> Si pierdes la bola y hay capsulas de BONUS bajando, estas desaparecen y no vuelven al mismo lugar cuando 			vuelves a lanzar la bola.
+
+Version Beta 2.5 - 	> Mucho tiempo ha pasado sin actualizar este juego, pero por fin esta nueva version trae muchas 			  nuevas novedades:
+			> He actualizado la lista de compatibilidad:
+
+			iGba			10/10
+			VisualBoyAdvance-Win 	8/10
+			VGBA-(DOS/Win) 		8/10
+			Boycott Advance		1/10
+
+			> Solamente hay 3 niveles, pero, he agregado ¡¡¡BONUS!!!, sí, cápsulas que caen de determinados
+			  ladrillos que los tienen en su interior, estos bonus te dan diferentes poderes, por ahora solo
+			  hay 5, uno que convierte la bola en COMETA, otro que hace mas GRANDE la bola, otra cápsula hace mas
+			  LARGA la raqueta, otra que te pone una LINEA de protección, y por último otra cápsula te da una VIDA.
+			> Le he dado un uso a los botones L y R, pues, cada vez que se va a lanzar la bola, usando estos
+			  botones indicas la direccion que tu desees que la bola tome al ser lanzada.
+			> También el botón B sirve para mover más rapido la raqueta.
+
+Version Beta 2.0 - 	> Gran cambio! Para empezar la bola es mas pequeña. Tambien se agrega el indicador de Niveles. Hay 3 			  niveles disponibles. La lista de compatibilidad con emuladores es (calificacion del 1-10):
+
+			iGba			10/10
+			VisualBoyAdvance-Win 	8/10
+			VGBA-(DOS/Win) 		8/10
+			Boycott Advance		1/10
+
+			Ademas incluyo la version para el MultiBoot (gracias a N3TKAT por ayudarme con algunos problemitas 			para esta Version).
+
+Version Beta 1.5 - 	> He aumentado el area de juego, para ke haiga mas ladrillos.
+			> He cambiado el diseño de la raqueta, y he usado uno muy parecido al del 			@rkanoid de SNES como una especie de tributo al antiguo.
+			> A los ladrillos Iris se les tiene ke golpear 3 veces para romperlos.
+			> Ademas he cambiado fondos, y pantalla de Inicio y Final.
+			> Ahh, y un repentino cambio, decidi quitar Zonyk porke ya saben, hay como 100 markas con las que se 			  parece, incluyendo con el personaje de la compañia ke alguna vez fue la mayor competencia de 			  Nintendo. Ahora se llama Dream Soft.
+			> Como ven uso 2 fades, uno de/hacia blanco y otro negro, le he pasado las rutinas a Oscar para ke 			  las incluya en la proxima Ver. de su Lib.
+
+Version Beta 1.0 - Ahora si, se puede decir ke esta "jugable", las novedades:
+		> Los ladrillos ya se pueden romper
+		> Agregue un contador de Score, muy preeliminar
+		> Ademas, cuando se te acaban las bolas te sale una pantalla de game over, y ke usa el Logo de Zonyk, por 		  primera vez en el juego.
+
+Version Beta 0.09 - Por fin he logrado hacer Ladrillos, y ke la bola bote en ellos. Ademas he cambiado el diseño de la Bola, 		    ahh, y tambien agreque un contador de Bolas, o sea, las ke te kedan.
+
+Version Beta 0.02 - Ahora la pelota ya cae, pero hay algunos Bugs. Además cambio el diseño de la raqueta
+
+Version Beta 0.01 - Primera salida, los angulos de la pelota estan a 2, -2
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+ducker0@hotmail.com
