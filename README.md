@@ -10,11 +10,21 @@
 
 <br>
 
-<pre>
 Ubuntu 22.04
+
+install SDL2
+
+<pre>
+sudo apt-get install libsdl2-dev libsdl2-image-dev libsdl2-mixer-dev libsdl2-net-dev libsdl2-ttf-dev
 </pre>
 
+<br><br><br>
+
+https://user-images.githubusercontent.com/10168979/188277869-a47336f5-63f7-4294-910a-812504629ed0.mp4
+
 <br>
+
+use gdkGBA as a reference
 
 <br><br><br><br><br><br><br>
 
