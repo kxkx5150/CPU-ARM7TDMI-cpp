@@ -44,6 +44,11 @@ vscode extensions
 
 <br><br><br>
 
+(Ctrl + Shift + p)  
+CMake: Configure
+
+<br><br><br>
+
 ### Ctrl + Shift + b
 
 Build
